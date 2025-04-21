@@ -1,2 +1,3 @@
-# mental-health-awareness-programs
-Repository for mental health awareness programs research and website
+# Mental Health Awareness Programs
+
+This repository contains information and resources related to mental health awareness programs.
